@@ -8,7 +8,7 @@ function App() {
     <Router>
       <div>
         <nav style={{ padding: 10 }}>
-          <Link to="/" style={{ marginRight: 10 }}>Products</Link>
+          
           <Link to="/cart">Cart</Link>
         </nav>
 
